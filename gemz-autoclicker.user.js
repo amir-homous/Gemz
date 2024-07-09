@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Gemz Autoclicker
 // @version      1.0
-// @author       mudachyo
+// @author       amir-homous
 // @match        *://ff.notgemz.gemz.fun/*
 // @icon         https://ff.notgemz.gemz.fun/favicon.ico
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/Gemz/raw/main/gemz-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Gemz/raw/main/gemz-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Gemz
+// @downloadURL  https://github.com/amir-homous/Gemz/raw/main/gemz-autoclicker.user.js
+// @updateURL    https://github.com/amir-homous/Gemz/raw/main/gemz-autoclicker.user.js
+// @homepage     https://github.com/amir-homous/Gemz
 // ==/UserScript==
 
 // Стили логов
